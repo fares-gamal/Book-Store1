@@ -1,9 +1,7 @@
 "use client";
-import { useRouter } from "next/navigation";
 import Header from "./components/headr";
 import Hero from "./components/Hero";
 import Herosection from "./components/HeroSection";
-import PremiumFeatures from "./components/PremiumFeatures";
 import Trackcard from "./components/Trackcard";
 
 export default function Hoom() {
@@ -12,7 +10,6 @@ export default function Hoom() {
       <Header />
       <Hero />
       <Herosection />
-      <PremiumFeatures />
       <Trackcard />
     </div>
   );
