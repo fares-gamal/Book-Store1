@@ -15,9 +15,9 @@ function PremiumFeatures() {
         <h1 className="font-bold text-[69px] flex gap-3 max-[1460px]:text-[55px]  max-[1063px]:text-[40px] max-[700px]:text-[25px] ">
           {" "}
           Premium{" "}
-          <h1 className="text-[#FF7426] max-[1460px]:text-[55px]  max-[1063px]:text-[40px] max-[700px]:text-[25px] ">
+          {/* <h1 className="text-[#FF7426] max-[1460px]:text-[55px]  max-[1063px]:text-[40px] max-[700px]:text-[25px] ">
             Learning
-          </h1>{" "}
+          </h1> */}
         </h1>
         <h1 className="font-bold text-[69px] max-[1460px]:text-[55px]  max-[1063px]:text-[40px] max-[700px]:text-[25px] ">
           Experience
